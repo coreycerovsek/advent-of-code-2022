@@ -1,0 +1,6 @@
+matplotlib
+more-itertools
+numpy
+portion
+tqdm
+z3-solver
